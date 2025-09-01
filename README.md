@@ -29,7 +29,6 @@
         </a>
       </div>
     </td>
-    
     <td valign="top" width="50%">
       <h3>Back</h3>
       <div align="center">  
